@@ -452,7 +452,7 @@ header h1{
 
 .qa-answer[data-open="true"]{
   opacity:1;
-  max-height:100vh;
+  max-height:none;
 }
 .qa-answer[data-open="false"]{
   opacity:0;
