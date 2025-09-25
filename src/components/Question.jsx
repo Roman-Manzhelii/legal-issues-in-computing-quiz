@@ -12,7 +12,7 @@ export default function Question({   index,
         isCorrect: null
     })
 
-    let timer = 10000;
+    let timer = 60000;
 
     if (answer.selectedAnswer) {
         timer = 800;

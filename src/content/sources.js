@@ -1,14 +1,14 @@
 export const sources = [
   {
-    label: '23andMe data leak — Wikipedia',
+    label: 'Wikipedia: 23andMe data leak',
     url: 'https://en.wikipedia.org/wiki/23andMe_data_leak'
   },
   {
-    label: 'The Guardian: 23andMe confirms hackers accessed data of 6.9m users',
-    url: 'https://www.theguardian.com/technology/2023/dec/05/23andme-hack-genetic-data'
+    label: 'Ars Technica: 23andMe says 6.9M users affected after credential stuffing attack',
+    url: 'https://arstechnica.com/tech-policy/2023/12/hackers-stole-ancestry-data-of-6-9-million-users-23andme-finally-confirmed/'
   },
   {
-    label: 'Reuters: 23andMe agrees to $30 mln settlement over data breach',
-    url: 'https://www.reuters.com/technology/23andme-agrees-30-mln-settlement-over-data-breach-lawsuits-2024-09-12/'
+    label: 'Reuters: 23andMe settles data breach lawsuit for $30 million',
+    url: 'https://www.reuters.com/technology/cybersecurity/23andme-settles-data-breach-lawsuit-30-million-2024-09-13/'
   }
 ];
